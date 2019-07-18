@@ -61,6 +61,7 @@ JAYATI SHRIVASTAVA
 - [Michal Fidler] (https://github.com/dottoreFell)
 - [Lucas Robitaille] (https://github.com/robitaille1)
 - [Prajakta Deosthali] (https://github.com/PrajaktaDeosthali)
+- [Joe Gonzalez](https://github.com/jgzlz)
 - [Isaac Patton] (https://github.com/Built4HumanityDev)
 - [Taylor Richardson] (https://github.com/Mertyton)
 - [Jung-Won Ha] (https://github.com/JungWonHa)
